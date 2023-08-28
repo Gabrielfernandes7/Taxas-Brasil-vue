@@ -1,0 +1,29 @@
+div {
+  font-family: Arial, sans-serif;
+  background-color: #0038f2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #88ef59;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  color: #f3ef3a;
+}
+
+.box-conteudo {
+  text-align: center;
+  margin-top: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
